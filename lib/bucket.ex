@@ -1,0 +1,2 @@
+defmodule Bucket do
+end
